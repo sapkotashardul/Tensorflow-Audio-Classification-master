@@ -59,7 +59,7 @@ pycocotools==2.0
 pycparser==2.18
 PyDispatcher==2.0.5
 pydot-ng==1.0.0
-Pygments==2.2.0
+Pygments==2.7.4
 pyOpenSSL==17.5.0
 pyparsing==2.2.0
 pypinyin==0.30.1
