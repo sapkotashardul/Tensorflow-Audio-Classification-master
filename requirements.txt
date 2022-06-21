@@ -43,7 +43,7 @@ msgpack==0.5.6
 msgpack-numpy==0.4.3
 # mxnet==1.0.0.post4
 numba==0.38.0
-numpy==1.14.2
+numpy==1.22.0
 #opencv-python==3.4.0.12
 opencv-python
 #pandas==0.22.0
